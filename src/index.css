@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  padding: 20px;
+}
+
+.toolbar {
+  margin-bottom: 10px;
+}
+
+.toolbar button {
+  margin-right: 5px;
+}
+
+.formula-bar input {
+  width: 300px;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.spreadsheet {
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.spreadsheet th, .spreadsheet td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.spreadsheet input {
+  width: 100%;
+  border: none;
+  text-align: center;
+  font-size: 14px;
+}
